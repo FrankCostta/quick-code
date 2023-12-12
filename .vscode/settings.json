@@ -1,0 +1,9 @@
+{
+	"editor.fontFamily": "Victor Mono",
+	"editor.fontLigatures": true,
+	"editor.fontWeight": 400,
+	"editor.fontSize": 12,
+	"editor.lineHeight": 22,
+	"editor.tabSize": 4,
+	"editor.wordWrap": "off"
+}
